@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tpgoldswain.github.io/Official-Statement/sitemap.xml
